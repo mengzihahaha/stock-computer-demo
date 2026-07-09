@@ -3,7 +3,8 @@
 一个基于 Streamlit 的 Web 应用：输入股票代码，自动获取行情数据并计算常用量化因子（均线、动量、波动率、RSI），支持美股和 A 股。
 
 > 个人学习项目，用于练习 Python 数据处理与 Web 应用开发。
-
+## 页面展示
+![alt text](image.png)
 ## 功能特性
 
 - 支持美股（yfinance）和 A 股（akshare）两个市场
